@@ -9,7 +9,7 @@ $ ls
 $ php kkktp.php
 ```
 # Autor
-Greyanonymous  
+Liong77
 
 # Spesial Thank
-Indonesian Security || Indoxploit
+Indonesian Security
